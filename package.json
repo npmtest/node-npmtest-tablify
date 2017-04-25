@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [tablify (v0.1.5)](https://github.com/malgorithms/tablify)  [![npm package](https://img.shields.io/npm/v/npmtest-tablify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-tablify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-tablify.svg)](https://travis-ci.org/npmtest/node-npmtest-tablify)",
+    "description": "#### basic test coverage for  [tablify (v0.1.5)](https://github.com/malgorithms/tablify)  [![npm package](https://img.shields.io/npm/v/npmtest-tablify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-tablify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-tablify.svg)](https://travis-ci.org/npmtest/node-npmtest-tablify)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "tablify": "*",

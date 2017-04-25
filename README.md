@@ -1,6 +1,6 @@
 # npmtest-tablify
 
-#### test coverage for  [tablify (v0.1.5)](https://github.com/malgorithms/tablify)  [![npm package](https://img.shields.io/npm/v/npmtest-tablify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-tablify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-tablify.svg)](https://travis-ci.org/npmtest/node-npmtest-tablify)
+#### basic test coverage for  [tablify (v0.1.5)](https://github.com/malgorithms/tablify)  [![npm package](https://img.shields.io/npm/v/npmtest-tablify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-tablify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-tablify.svg)](https://travis-ci.org/npmtest/node-npmtest-tablify)
 
 #### Quick and painless printing of tabular data
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-tablify/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-tablify/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-tablify/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-tablify/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-tablify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-tablify/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-tablify/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-tablify/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-tablify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-tablify/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-tablify/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-tablify/build/coverage.html/index.html)
 
@@ -80,7 +80,8 @@
         "type": "git",
         "url": "git+ssh://git@github.com/malgorithms/tablify.git"
     },
-    "version": "0.1.5"
+    "version": "0.1.5",
+    "bin": {}
 }
 ```
 
